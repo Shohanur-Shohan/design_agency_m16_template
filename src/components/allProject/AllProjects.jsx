@@ -5,11 +5,11 @@ const AllProjects = () => {
 
       <div className="px-4 mb-[40px]">
         <h1 className="text-[#20B15A] text-lg md:text-xl text-center  lg:text-left">All Projects</h1>
-        <h2 className="mt-4 text-2xl font-bold text-center text-gray-800 dark:text-white md:text-4xl lg:text-left">Better Agency/SEO Solution At  <br className="sm:block" />Your Fingertips</h2>
+        <h2 className="mt-4 text-2xl font-bold text-center text-gray-800 md:text-4xl lg:text-left">Better Agency/SEO Solution At  <br className="sm:block" />Your Fingertips</h2>
       </div>
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
           {/* <!-- Card --> */}
-          <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+          <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
             <div className='mt-8 lg:mt-0'>
               <div className='flex flex-wrap mb-4'>
                   <div className="flex gap-3">
@@ -20,7 +20,7 @@ const AllProjects = () => {
           </div>
           {/* <!-- End Card --> */}
           {/* <!-- Card --> */}
-          <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+          <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
             <div className='mt-8 lg:mt-0'>
               <div className='flex flex-wrap mb-4'>
                   <div className="flex gap-3">
@@ -31,7 +31,7 @@ const AllProjects = () => {
           </div>
           {/* <!-- End Card --> */}
           {/* <!-- Card --> */}
-          <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+          <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
             <div className='mt-8 lg:mt-0'>
               <div className='flex flex-wrap mb-4'>
                   <div className="flex gap-3">
@@ -42,7 +42,7 @@ const AllProjects = () => {
           </div>
           {/* <!-- End Card --> */}
           {/* <!-- Card --> */}
-          <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+          <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
             <div className='mt-8 lg:mt-0'>
               <div className='flex flex-wrap mb-4'>
                   <div className="flex gap-3">
@@ -53,7 +53,7 @@ const AllProjects = () => {
           </div>
           {/* <!-- End Card --> */}
           {/* <!-- Card --> */}
-          <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+          <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
             <div className='mt-8 lg:mt-0'>
               <div className='flex flex-wrap mb-4'>
                   <div className="flex gap-3">
@@ -64,7 +64,7 @@ const AllProjects = () => {
           </div>
           {/* <!-- End Card --> */}
           {/* <!-- Card --> */}
-          <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+          <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
             <div className='mt-8 lg:mt-0'>
               <div className='flex flex-wrap mb-4'>
                   <div className="flex gap-3">

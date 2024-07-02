@@ -6,7 +6,7 @@ const TeamMembers = () => {
 
           <div className="px-4 mb-[40px]">
             <h1 className="text-[#20B15A] text-lg md:text-xl text-center  lg:text-left">Our Team Members</h1>
-            <h2 className="mt-4 text-2xl font-bold text-center text-gray-800 dark:text-white md:text-4xl lg:text-left">Check our awesome team <br className="sm:block" />members</h2>
+            <h2 className="mt-4 text-2xl font-bold text-center text-gray-800  md:text-4xl lg:text-left">Check our awesome team <br className="sm:block" />members</h2>
           </div>
           <div className="flex flex-wrap justify-center">
                 {/* teamCard start*/}

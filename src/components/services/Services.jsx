@@ -5,16 +5,16 @@ const Services = () => {
 
 <div className="px-4 mb-[40px]">
   <h1 className="text-[#20B15A] text-lg md:text-xl text-center  lg:text-left">Our All Services</h1>
-  <h2 className="mt-4 text-2xl font-bold text-center text-gray-800 dark:text-white md:text-4xl lg:text-left">We Provide BestWeb design  <br className="sm:block" />services</h2>
+  <h2 className="mt-4 text-2xl font-bold text-center text-gray-800 md:text-4xl lg:text-left">We Provide BestWeb design  <br className="sm:block" />services</h2>
 </div>
 <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-2">
     {/* <!-- Card --> */}
-    <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+    <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
       <div className="my-6">
-        <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
+        <h3 className="text-xl font-semibold text-gray-800 ">
         Build & Launch without problems
         </h3>
-        <p className="mt-5 text-gray-600 dark:text-gray-400">
+        <p className="mt-5 text-gray-600 ">
         Increase your team’s productivity and save time with a bot that answers and fields customer inquiries
         </p>
       </div>
@@ -35,12 +35,12 @@ const Services = () => {
     </div>
     {/* <!-- End Card --> */}
     {/* <!-- Card --> */}
-    <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+    <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
       <div className="my-6">
-        <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
+        <h3 className="text-xl font-semibold text-gray-800 ">
         Build & Launch without problems
         </h3>
-        <p className="mt-5 text-gray-600 dark:text-gray-400">
+        <p className="mt-5 text-gray-600 ">
         Increase your team’s productivity and save time with a bot that answers and fields customer inquiries
         </p>
       </div>
@@ -61,12 +61,12 @@ const Services = () => {
     </div>
     {/* <!-- End Card --> */}
     {/* <!-- Card --> */}
-    <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+    <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
       <div className="my-6">
-        <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
+        <h3 className="text-xl font-semibold text-gray-800 ">
         Build & Launch without problems
         </h3>
-        <p className="mt-5 text-gray-600 dark:text-gray-400">
+        <p className="mt-5 text-gray-600 ">
         Increase your team’s productivity and save time with a bot that answers and fields customer inquiries
         </p>
       </div>
@@ -87,12 +87,12 @@ const Services = () => {
     </div>
     {/* <!-- End Card --> */}
     {/* <!-- Card --> */}
-    <div className="group items-center justify-center flex flex-col h-fit border border-gray-200 hover:border-transparent hover:shadow-lg transition-all duration-300 rounded-xl p-5 dark:border-gray-700 dark:hover:border-transparent dark:hover:shadow-black/[.4]">
+    <div className="flex flex-col items-center justify-center p-5 transition-all duration-300 border border-gray-200 group h-fit hover:border-transparent hover:shadow-lg rounded-xl ">
       <div className="my-6">
-        <h3 className="text-xl font-semibold text-gray-800 dark:text-gray-300 dark:group-hover:text-white">
+        <h3 className="text-xl font-semibold text-gray-800 ">
         Build & Launch without problems
         </h3>
-        <p className="mt-5 text-gray-600 dark:text-gray-400">
+        <p className="mt-5 text-gray-600 ">
         Increase your team’s productivity and save time with a bot that answers and fields customer inquiries
         </p>
       </div>

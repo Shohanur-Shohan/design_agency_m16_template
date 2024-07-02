@@ -6,13 +6,13 @@ const WorkLists = () => {
         <div className="px-6 m-auto text-gray-500 md:px-2">
         <div>
             <h1 className="text-[#20B15A] text-lg md:text-xl text-center md:text-left">Work List</h1>
-            <h2 className="mt-4 text-2xl font-bold text-center text-gray-800 dark:text-white md:text-4xl md:text-left">
+            <h2 className="mt-4 text-2xl font-bold text-center text-gray-800 md:text-4xl md:text-left">
             We provide the Perfect Solution <br className="sm:block" hidden />
             to your business growth
             </h2>
         </div>
         <div className="grid grid-cols-1 gap-8 mt-16 lg:gap-0 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3">
-            <div className="p-8 transition duration-300 bg-white border border-gray-100 shadow-2xl group rounded-3xl dark:border-gray-700 dark:bg-gray-800 dark:lg:bg-transparent lg:border-transparent hover:border-gray-100 dark:shadow-none dark:hover:border-gray-700 dark:hover:bg-gray-800 shadow-gray-600/10 lg:shadow-transparent lg:hover:shadow-gray-600/10 sm:gap-8">
+            <div className="p-8 transition duration-300 bg-white border border-gray-100 shadow-2xl group rounded-3xl lg:border-transparent hover:border-gray-100 shadow-gray-600/10 lg:shadow-transparent lg:hover:shadow-gray-600/10 sm:gap-8">
                 <div className="">
                     <img
                     src="/images/workLists/Activity.svg"
@@ -21,10 +21,10 @@ const WorkLists = () => {
                     height="512"
                     alt="package-delivery illustration"
                     />
-                    <h3 className="mt-8 mb-4 text-2xl font-semibold text-gray-800 transition dark:text-white">
+                    <h3 className="mt-8 mb-4 text-2xl font-semibold text-gray-800 transition ">
                     Grow Your Business
                     </h3>
-                    <p className="text-gray-600 dark:text-gray-300">
+                    <p className="text-gray-600 ">
                     We help identify the best ways to improve your business.
                     </p>
                     <button type="button" className="inline-flex items-center pt-5 text-sm font-medium text-center text-black hover:text-green-600">
@@ -35,7 +35,7 @@ const WorkLists = () => {
                     </button>
                 </div>
             </div>
-            <div className="p-8 transition duration-300 bg-white border border-gray-100 shadow-2xl group rounded-3xl dark:border-gray-700 dark:bg-gray-800 dark:lg:bg-transparent lg:border-transparent hover:border-gray-100 dark:shadow-none dark:hover:border-gray-700 dark:hover:bg-gray-800 shadow-gray-600/10 lg:shadow-transparent lg:hover:shadow-gray-600/10 sm:gap-8 sm:flex">
+            <div className="p-8 transition duration-300 bg-white border border-gray-100 shadow-2xl group rounded-3xl lg:border-transparent hover:border-gray-100 shadow-gray-600/10 lg:shadow-transparent lg:hover:shadow-gray-600/10 sm:gap-8 sm:flex">
                 <div className="">
                     <img
                     src="/images/workLists/Heart@2x.svg"
@@ -44,10 +44,10 @@ const WorkLists = () => {
                     height="512"
                     alt="package-delivery illustration"
                     />
-                    <h3 className="mt-8 mb-4 text-2xl font-semibold text-gray-800 transition dark:text-white">
+                    <h3 className="mt-8 mb-4 text-2xl font-semibold text-gray-800 transition ">
                     Improve brand loyalty
                     </h3>
-                    <p className="text-gray-600 dark:text-gray-300">
+                    <p className="text-gray-600 ">
                     We help identify the best ways to improve your business.
                     </p>
                     <button type="button" className="inline-flex items-center pt-5 text-sm font-medium text-center text-black hover:text-green-600">
@@ -58,7 +58,7 @@ const WorkLists = () => {
                     </button>
                 </div>
             </div>
-            <div className="p-8 transition duration-300 bg-white border border-gray-100 shadow-2xl group rounded-3xl dark:border-gray-700 dark:bg-gray-800 dark:lg:bg-transparent lg:border-transparent hover:border-gray-100 dark:shadow-none dark:hover:border-gray-700 dark:hover:bg-gray-800 shadow-gray-600/10 lg:shadow-transparent lg:hover:shadow-gray-600/10 sm:gap-8 sm:flex">
+            <div className="p-8 transition duration-300 bg-white border border-gray-100 shadow-2xl group rounded-3xl lg:border-transparent hover:border-gray-100 shadow-gray-600/10 lg:shadow-transparent lg:hover:shadow-gray-600/10 sm:gap-8 sm:flex">
                 <div className="">
                     <img
                     src="/images/workLists/Work.svg"
@@ -67,10 +67,10 @@ const WorkLists = () => {
                     height="512"
                     alt="package-delivery illustration"
                     />
-                    <h3 className="mt-8 mb-4 text-2xl font-semibold text-gray-800 transition dark:text-white">
+                    <h3 className="mt-8 mb-4 text-2xl font-semibold text-gray-800 transition ">
                     Improve Business Model
                     </h3>
-                    <p className="text-gray-600 dark:text-gray-300">
+                    <p className="text-gray-600 ">
                     We help identify the best ways to improve your business.
                     </p>
                     <button type="button" className="inline-flex items-center pt-5 text-sm font-medium text-center text-black hover:text-green-600">

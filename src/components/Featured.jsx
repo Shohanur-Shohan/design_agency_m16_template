@@ -6,7 +6,7 @@ const Featured = () => {
         <div className="max-w-[1200px] mx-auto px-6 m-auto text-gray-500 md:px-2">
             <div className="">
                 <h1 className="text-[#20B15A] text-lg md:text-xl text-center lg:text-left">Featured Projects</h1>
-                <h2 className="mt-4 text-2xl font-bold text-center text-gray-800 dark:text-white md:text-4xl lg:text-left">
+                <h2 className="mt-4 text-2xl font-bold text-center text-gray-800 md:text-4xl lg:text-left">
                 We provide the Perfect Solution <br className="sm:block" hidden />
                 to your business growth
                 </h2>
